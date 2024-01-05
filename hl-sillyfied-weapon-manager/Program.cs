@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more informaTION
+﻿
 
 using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
